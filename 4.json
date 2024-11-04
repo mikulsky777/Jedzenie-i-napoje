@@ -1,0 +1,14 @@
+{
+    "name" : "apple",
+    "fruit" : true,
+    "vitamins" : ["A", "B", "D"],
+    "healthy_amount_everyday" : 3,
+    "processed" : false,
+    "average_weight" : 265.5,
+    "family" : {
+        "banana" : false,
+        "pumpkin" : false,
+        "berry" : true
+    }, 
+    "name_when_mixed" : "apple smoothie"
+}
