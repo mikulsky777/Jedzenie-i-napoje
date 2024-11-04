@@ -1,0 +1,41 @@
+<coca-cola>
+    <contains_sugar how_much="7g/100ml" type="simple"><contains_sugar>
+    <not_healthy caffeine="yes" addiction="yes"></not_healthy>
+    <made_chemically dangerous="yes" used="big factories"></made_chemically>
+    <popular sell_rate="100 mil/year" company_worth="173 mld zl"></popular>
+</coca-cola>
+
+<sprite>
+    <contains_sugar how_much="3g/50ml" type="simple, advanced"><contains_sugar>
+    <healthy caffeine="not" addiction="not"></healthy>
+    <made_chemically dangerous="no" used="medium factories"></made_chemically>
+    <popular sell_rate="73 mil/year" company_worth="133 mld zl"></popular>
+</sprite>
+
+<mountain_dew>
+    <contains_sugar how_much="15g/150ml" type="simple"><contains_sugar>
+    <not_healthy caffeine="yes" addiction="yes"></not_healthy>
+    <made_chemically dangerous="no" used="small factories"></made_chemically>
+    <popular sell_rate="37 mil/year" company_worth="50 mld zl"></popular>
+</mountain_dew>
+
+<redbull>
+    <contains_sugar how_much="7g/200ml" type="simple"><contains_sugar>
+    <not_healthy caffeine="yes" addiction="yes"></not_healthy>
+    <made_chemically dangerous="yes" used="medium factories"></made_chemically>
+    <popular sell_rate="355 mil/year" company_worth="137 mld zl"></popular>
+</redbull>
+
+<smoothie>
+    <contains_sugar how_much="1g/100ml" type="healthy sugar"><contains_sugar>
+    <healthy caffeine="not" addiction="not"></healthy>
+    <made_naturally dangerous="yes" used="small companies"></made_naturally>
+    <unpopular sell_rate="10 mil/year" company_worth="0.5 mld zl"></unpopular>
+</smoothie>
+
+<orange_juice>
+    <contains_sugar how_much="1g/200ml" type="healthy sugar"><contains_sugar>
+    <healthy caffeine="not" addiction="not"></healthy>
+    <made_naturally dangerous="no" used="local seller"></made_naturally>
+    <unpopular sell_rate="16 mil/year" company_worth="0.7 mld zl"></unpopular>
+</orange_juice>
