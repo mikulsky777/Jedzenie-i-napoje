@@ -13,3 +13,6 @@ Ale zejdźmy na Ziemie. Żywność można podzielić na produkty przetworzone, i
 
 W ostatnich latach popularność zyskały produkty spożywcze sprzedawane w barach szybkiej obsługi, tzw *Fast Food*. Jest to jedzenie jak Sama nazwa wskazuje, które można szybko przygotować. Takie jedzenie jest zazwyczaj tanie i łatwo dostępne, a wypadkowa niskiej jakości, oraz wcześniej wymienionych cech skutkuje tym że dieta składająca sie w większości z takiego pokarmu, może negatywnie wpłynąć na zdrowie
 
+# OBRAZY
+![Hamburger](https://cdn.mcdonalds.pl/uploads/20200602191706/hamburger.png)
+![CocaCola](https://leclerc24.pl/public/upload/sellasist_cache/original_d02d65024365bdef8ce9caec7bf33c53.jpg)
