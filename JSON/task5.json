@@ -1,0 +1,44 @@
+[
+    {
+        "Name":"Pizza",
+        "CanBeDrinked":false,
+        "IsHot":true,
+        "CountryOfOrigin":"Italy",
+        "AveragePriceInPLN":50
+    }
+    {
+        "Name":"Sour Soup",
+        "CanBeDrinked":true,
+        "IsHot":true,
+        "CountryOfOrigin":"Poland",
+        "AveragePriceInPLN":20
+    }
+    {
+        "Name":"Hamburger",
+        "CanBeDrinked":false,
+        "IsHot":true,
+        "CountryOfOrigin":"Germany",
+        "AveragePriceInPLN":30
+    }
+    {
+        "Name":"Taco",
+        "CanBeDrinked":false,
+        "IsHot":true,
+        "CountryOfOrigin":"Mexico",
+        "AveragePriceInPLN":23
+    }
+    {
+        "Name":"Sushi",
+        "CanBeDrinked":false,
+        "IsHot":false,
+        "CountryOfOrigin":"Japan",
+        "AveragePriceInPLN":60
+    }
+    {
+        "Name":"fanta",
+        "CanBeDrinked":true,
+        "IsHot":false,
+        "CountryOfOrigin":"Germany",
+        "AveragePriceInPLN":6
+    }
+]
