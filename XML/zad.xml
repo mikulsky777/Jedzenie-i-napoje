@@ -1,0 +1,32 @@
+<jadłospis>
+    <Zestaw>1</Zestaw>
+        <Danie>Schabowy</Danie>
+            <WartośćKaloryczna>150kcal<WartoścKaloryczna>
+        <Napój>Kompot</Napój>
+           <WartośćKaloryczna>10kcal<WartoścKaloryczna>  
+    <Zestaw>2</Zestaw>
+        <Danie>PieczonyKurczak</Danie>
+            <WartośćKaloryczna>200kcal<WartoścKaloryczna>
+        <Napój>Cola</Napój>
+           <WartośćKaloryczna><WartoścKaloryczna>  
+    <Zestaw>3</Zestaw>
+        <Danie>Rosół</Danie>
+            <WartośćKaloryczna>20kcal<WartoścKaloryczna>
+        <Napój>Fanta</Napój>
+           <WartośćKaloryczna>70kcal<WartoścKaloryczna>  
+    <Zestaw>4</Zestaw>
+        <Danie>Pieczarkowa</Danie>
+            <WartośćKaloryczna>170kcal<WartoścKaloryczna>
+        <Napój>Woda</Napój>
+           <WartośćKaloryczna>0kcal<WartoścKaloryczna>  
+    <Zestaw>5</Zestaw>
+        <Danie>Naleśniki</Danie>
+            <WartośćKaloryczna>170kcal<WartoścKaloryczna>
+        <Napój>Pepsi</Napój>
+           <WartośćKaloryczna>3000kcal<WartoścKaloryczna>  
+    <Zestaw>6</Zestaw>
+        <Danie>Pierogi</Danie>
+            <WartośćKaloryczna>700kcal<WartoścKaloryczna>
+        <Napój>Herbata</Napój>
+           <WartośćKaloryczna>30kcal<WartoścKaloryczna>  
+</jadłospis>
