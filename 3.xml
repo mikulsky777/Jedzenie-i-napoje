@@ -1,0 +1,41 @@
+<coca-cola>
+    <contains_sugar how_much="7g/100ml" type="simple"><contains_sugar>
+    <not_healthy contains="caffeine" ></not_healthy>
+    <made_naturally></made_naturally>
+    <popular></popular>
+</coca-cola>
+
+<sprite>
+    <contains_sugar><contains_sugar>
+    <healthy></healthy>
+    <made_naturally></made_naturally>
+    <popular></popular>
+</sprite>
+
+<coca-cola>
+    <contains_sugar><contains_sugar>
+    <healthy></healthy>
+    <made_naturally></made_naturally>
+    <popular></popular>
+</coca-cola>
+
+<coca-cola>
+    <contains_sugar><contains_sugar>
+    <healthy></healthy>
+    <made_naturally></made_naturally>
+    <popular></popular>
+</coca-cola>
+
+<coca-cola>
+    <contains_sugar><contains_sugar>
+    <healthy></healthy>
+    <made_naturally></made_naturally>
+    <popular></popular>
+</coca-cola>
+
+<coca-cola>
+    <contains_sugar><contains_sugar>
+    <healthy></healthy>
+    <made_naturally></made_naturally>
+    <popular></popular>
+</coca-cola>
